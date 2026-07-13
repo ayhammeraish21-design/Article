@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": "user-system-1", "username": "أمين الخالدي", "email": "amin@research.org", "createdAt": "2026-07-09T13:30:00.000Z" },
+    { "id": "user-system-2", "username": "رانيا منصور", "email": "rania@space.sci", "createdAt": "2026-07-09T13:30:00.000Z" },
+    { "id": "user-system-3", "username": "يوسف الأندلسي", "email": "youssef@andalus.edu", "createdAt": "2026-07-09T13:30:00.000Z" }
+  ],
+  "articles": []
+}

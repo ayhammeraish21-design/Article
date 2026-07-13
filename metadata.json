@@ -1,0 +1,8 @@
+{
+  "name": "بوابة البحوث والمقالات - Research & Articles Portal",
+  "description": "منصة تفاعلية حديثة لمشاركة وقراءة البحوث والمقالات العلمية والأدبية، تدعم رفع ملفات Word وتحليلها باستخدام الذكاء الاصطناعي وجيني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
